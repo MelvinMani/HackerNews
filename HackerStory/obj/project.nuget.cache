@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "77RtJ5huP8RoacyuYXtLB56E1CuM2bm3bs6NMU8pT1I04XY9NrNyjjRGdeum2d8ybMFnIi7IK0/mQQT8ZNH2vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melvi\\source\\HackerStory\\HackerStory\\HackerStory\\HackerStory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melvi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\melvi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\melvi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\melvi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\melvi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\melvi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

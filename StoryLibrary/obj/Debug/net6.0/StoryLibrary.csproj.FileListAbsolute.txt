@@ -1,0 +1,12 @@
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\bin\Debug\net6.0\StoryLibrary.deps.json
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\bin\Debug\net6.0\StoryLibrary.dll
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\bin\Debug\net6.0\StoryLibrary.pdb
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\obj\Debug\net6.0\StoryLibrary.csproj.AssemblyReference.cache
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\obj\Debug\net6.0\StoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\obj\Debug\net6.0\StoryLibrary.AssemblyInfoInputs.cache
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\obj\Debug\net6.0\StoryLibrary.AssemblyInfo.cs
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\obj\Debug\net6.0\StoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\obj\Debug\net6.0\StoryLibrary.dll
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\obj\Debug\net6.0\refint\StoryLibrary.dll
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\obj\Debug\net6.0\StoryLibrary.pdb
+C:\Users\melvi\source\HackerStory\HackerStory\StoryLibrary\obj\Debug\net6.0\ref\StoryLibrary.dll
