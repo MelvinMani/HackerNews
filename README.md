@@ -10,5 +10,5 @@ This sample uses a separate library to
 
 If I had more time, I would look into
   1. Exception handling - at the moment, not upto par - this can be improved
-  2. Logging - moderately, to ensure requests are handled with no lag
-  3. May be introduce custom caching instead of memory cache
+  3. Logging - moderately, to ensure requests are handled with no lag
+  4. Introduce custom caching instead of memory cache and hance improve concurrency when loading the cache
